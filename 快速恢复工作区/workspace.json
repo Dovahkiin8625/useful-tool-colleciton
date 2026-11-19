@@ -1,0 +1,14 @@
+{
+  "defaultApp": "powershell",
+  "mode": "window",
+  "explorerMode": "tab",
+  "maximized": false,
+  "launch": [ 
+    { "path": "E:/project-clip/comfy-prompt", "title": "Comfy提示词", "app": "explorer" },
+    { "path": "D:/Comfy-Desktop/ComfyUI-Shared/output", "title": "Comfy输出", "app": "explorer" },
+    { "path": "E:/project/desk-pet/assets/models/miya", "title": "桌宠角色", "app": "explorer" },
+    { "path": "E:/project/desk-pet", "title": "桌宠根目录", "app": "explorer" },
+    { "path": "E:/project/desk-pet", "title": "桌宠根目录", "app": "cmd" },
+    { "path": "E:/project/desk-pet", "title": "桌宠根目录", "app": "cmd" }
+  ]
+}
